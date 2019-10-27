@@ -18,19 +18,21 @@ defaults:
 
 projects:
   sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
+ # sort_by options:
+ # - pushed
+ # - stars
   limit: 12
   exclude:
     archived: false
-    forks: false
+    forks: true
     projects:
     # - repo-name
 
 social_media:
   # behance: your_username
   # dribbble: your_username
+  dev: delta456
+  deviantart: delta2318
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
